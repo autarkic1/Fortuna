@@ -1,0 +1,5 @@
+Bounty_0_0_4.sol on ropsten:
+0xe6f739039a894a1A33A17b114025Db2b801Cc6B6
+
+Bounty_0_0_3.sol on ropsten:
+0x6d42B18bEC1864e30a4BE6C5171D5C3fBedBc613
